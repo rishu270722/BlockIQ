@@ -14,7 +14,7 @@ BlockIQ is a decentralized blockchain-themed quiz game that integrates blockchai
 - *Network*: EduChain Testnet
 
 ## Deployment
-- *Contract Address*: [View on Explorer](https://xt4scan.ngd.network/address/0x9C075F3f1C3F236253c5b21D6d0555F7B571523f)
+- *Contract Address*: [View on Explorer](https://edu-chain-testnet.blockscout.com/address/0x9C075F3f1C3F236253c5b21D6d0555F7B571523f)
 - *Coin Used*: MEME (MEMECOIN)
 
 ## How to Use
